@@ -89,7 +89,7 @@ transform: translateX(0px);
 
 .banner-right img {
   display: block;
-  animation: banner-player-animation 1s ease-in infinite;
+  animation: banner-player-animation 1s ease-in infinite ;
 }
 
 /*  upcoming-matches */
